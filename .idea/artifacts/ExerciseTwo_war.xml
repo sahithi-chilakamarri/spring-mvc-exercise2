@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact name="ExerciseTwo.war">
-    <output-path>$PROJECT_DIR$/out/artifacts/ExerciseTwo_war</output-path>
-    <root id="root">
-      <element id="archive" name="ExerciseTwo.war" />
-    </root>
-  </artifact>
-</component>
