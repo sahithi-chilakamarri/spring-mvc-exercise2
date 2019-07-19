@@ -2,6 +2,7 @@
 pageEncoding="UTF-8"
 isELIgnored="false"
 %>
+<!--Display Information-->
 <html>
 <head>
 <body>
